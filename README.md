@@ -18,7 +18,9 @@ Com a realização deste trabalho tivemos como objetivo base analisar um conjunt
 O repositório está organizado da seguinte forma:
 
 songs_normalize.csv - Ficheiro extraído da base de dados do KAGGLe, que contém os dados que vamos tratar no projeto.
+
 spotify top hits.ipynb - Ficheiro em formato Jupyter Notebook que contém o código em linguagem python.
+
 Relatório_programação.pdf - Ficheiro com relatório do nosso projeto
 # Dicionário de dados 
 <!DOCTYPE html>
