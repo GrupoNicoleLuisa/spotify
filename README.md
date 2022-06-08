@@ -2,7 +2,8 @@
 # Contexto
 Este trabalho foi realizado no âmbito da Unidade Curricular de Programação e Algoritmos II lecionada pelo docente João Gilberto de Matos Orvalho na Licenciatura de Comunicação e Design Multimédia da Escola Superior de Educação de Coimbra.
 
-O nosso projeto consiste na limpeza e tratamento de um conjunto de dados de um ficheiro .csv. Os dados referem-se ao top hits de músicas tocadas no spotify.
+O nosso projeto consiste na limpeza e tratamento de um conjunto de dados de um ficheiro .csv. 
+Os dados referem-se ao top hits de músicas tocadas no spotify entre os anos 2000 e 2019.
 
 O grupo responsável por este projeto é constituído pelos seguintes elementos: Luísa Antunes, Nicole Estrela.
 # Objetivo
