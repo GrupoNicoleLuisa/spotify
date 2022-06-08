@@ -9,25 +9,100 @@
 <body>
 <table>
   <tr>
-    <th>titulo1
-    <th>titulo2
+    <th>Nome da Coluna
+    <th>Significado
   </tr>
   <tr>
-    <td>exempl3</td>
-    <td>exemplo4</td>
+    <td>artist</td>
+    <td>artistas</td>
   </tr>
     <tr>
-    <td>exemplo5</td>
-    <td>exemplo6</td>
+    <td>song</td>
+    <td>músicas</td> 
   </tr>
 
   <tr>
-    <td>exempl7</td>
-    <td>exemplo8</td>
+    <td>duration_ms</td>
+    <td>duração das músicas</td>
   </tr>
 
   <tr>
-    <td>exempl9</td>
-    <td>exemplo10</td>
+    <td>explicit</td>
+    <td>conteúdo explícito</td>
   </tr>
+  
+  <tr>
+    <td>year</td>
+    <td>ano</td>
+  </tr
+      
+   <tr>
+    <td>popularity</td>
+    <td>popularidade</td>
+  </tr>
+  
+   <tr>
+    <td>danceability</td>
+    <td>dançabilidade</td>
+  </tr>
+  
+  <tr>
+    <td>energy</td>
+    <td>energia</td>
+  </tr>
+  
+  <tr>
+    <td>key</td>
+    <td>chave</td>
+  </tr>
+  
+  <tr>
+    <td>loudness</td>
+    <td>volume</td>
+  </tr>
+  
+  <tr>
+    <td>mode</td>
+    <td>modo</td>
+  </tr>
+  
+  <tr>
+    <td>speechiness</td>	
+    <td>fala</td>
+  </tr>
+  
+  <tr>
+    <td>acousticness</td>
+    <td>acústica</td>
+  </tr>
+  
+   <tr>
+    <td>instrumentalness</td>
+    <td>instrumentalidade</td>
+  </tr>
+  
+  <tr>
+    <td>liveness</td>
+    <td>vivacidade</td>
+  </tr>
+  
+  <tr>
+    <td>valence</td>
+    <td>valência</td>
+  </tr>
+  
+  <tr>
+    <td>tempo</td>
+    <td>tempo</td>
+  </tr>
+  
+  <tr>
+    <td>genre</td>
+    <td>gênero</td>
+  </tr>
+  
+  
+  
+  
+  
  
