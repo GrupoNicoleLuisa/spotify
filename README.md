@@ -7,8 +7,19 @@ Os dados referem-se ao top hits de músicas tocadas no spotify entre os anos 200
 
 O grupo responsável por este projeto é constituído pelos seguintes elementos: Luísa Antunes, Nicole Estrela.
 # Objetivo
+Com a realização deste trabalho tivemos como objetivo base analisar um conjunto de dados e de seguinte interpreta-los, debroçando-nos assim sobre algumas questões como: 
+1. Qual a duração da música com maior duração?
+2. Qual o artista com mais músicas no "top hits"?
+3. Qual o número de músicas no top hits do artista com mais músicas?
+4. Quantas músicas existem com conteúdo explicit?
 # Bibliografia
+
 # Estrutura 
+O repositório está organizado da seguinte forma:
+
+songs_normalize.csv - Ficheiro extraído da base de dados do KAGGLe, que contém os dados que vamos tratar no projeto.
+spotify top hits.ipynb - Ficheiro em formato Jupyter Notebook que contém o código em linguagem python.
+Relatório_programação.pdf - Ficheiro com relatório do nosso projeto
 # Dicionário de dados 
 <!DOCTYPE html>
 <html>
