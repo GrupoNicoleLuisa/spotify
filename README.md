@@ -8,10 +8,11 @@ Os dados referem-se ao top hits de músicas tocadas no spotify entre os anos 200
 O grupo responsável por este projeto é constituído pelos seguintes elementos: Luísa Antunes, Nicole Estrela.
 # Objetivo
 Com a realização deste trabalho tivemos como objetivo base analisar um conjunto de dados e de seguinte interpreta-los, debroçando-nos assim sobre algumas questões como: 
-1. Qual a duração da música com maior duração?
-2. Qual o artista com mais músicas no "top hits"?
-3. Qual o número de músicas no top hits do artista com mais músicas?
-4. Quantas músicas existem com conteúdo explicit?
+1. Qual a canção mais popular?
+2. Qual a duraçao da música com maior duração?
+3. Qual o artista com mais músicas no "top hits"?
+4. Qual o número de músicas no top hits do artista com mais músicas?
+5. Quantas músicas existem com conteúdo explicit?
 # Bibliografia
 https://www.kaggle.com/
 https://www.w3schools.com/python/python_syntax.asp
