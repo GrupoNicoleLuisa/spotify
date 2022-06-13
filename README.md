@@ -13,7 +13,9 @@ Com a realização deste trabalho tivemos como objetivo base analisar um conjunt
 3. Qual o número de músicas no top hits do artista com mais músicas?
 4. Quantas músicas existem com conteúdo explicit?
 # Bibliografia
-
+https://www.kaggle.com/
+https://www.w3schools.com/python/python_syntax.asp
+https://www.educative.io/blog/pandas-cheat-sheet
 # Estrutura 
 O repositório está organizado da seguinte forma:
 
@@ -120,7 +122,7 @@ Relatório_programação.pdf - Ficheiro com relatório do nosso projeto
     <td>gênero</td>
   </tr>
   
-  
+ # Conclusão 
   
   
   
